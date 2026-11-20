@@ -1,0 +1,5 @@
+ACCESS=ALRTmssinqugQnxnlVXf
+SECRET=fqT570RS4TLcSGalRRnN4QjVHlbTLCfy0uHIbWOu
+AWS_S3_ENDPOINT=api-minio.ine.gob.cl
+RENV_PATHS_CACHE="/home/jovyan/work/.renv_cache"
+RENV_PATHS_ROOT="/home/jovyan/work/R/renv-cache
